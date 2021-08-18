@@ -33,6 +33,7 @@
 ## 💻 Work Stats
 
 ![Work Stats](https://github-readme-stats.vercel.app/api?username=rohfl&show_icons=true&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohfl&layout=compact&langs_count=8)
 
 [github]: https://github.com/rohfl
 [twitter]: https://twitter.com/iamrohit21
