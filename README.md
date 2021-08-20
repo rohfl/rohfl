@@ -8,9 +8,10 @@
 
 ## Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-white.svg?style=for-the-badge&logo=linkedin&logoColor=blue)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-white.svg?style=for-the-badge&logo=instagram)][instagram]
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
+[![Twitter](https://img.shields.io/badge/Twitter-white.svg?style=for-the-badge&logo=twitter)][twitter]
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-white.svg?style=for-the-badge&logo=hackerrank)][hackerrank]
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=google-chat)](mailto:iamrohitjangid21@gmail.com)
 <br />
 
@@ -39,3 +40,4 @@
 [twitter]: https://twitter.com/iamrohit21
 [instagram]: https://instagram.com/rohfl
 [linkedin]: https://linkedin.com/in/iamrohit21
+[hackerrank]: https://hackerrank.com/rohfl
