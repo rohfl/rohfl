@@ -3,7 +3,7 @@
 ### <img src="https://media3.giphy.com/media/GasKeLJHeOD4K50B7V/giphy.gif?cid=ecf05e47gre5hqmval2mytgllbn49cu0g5lbn6b3ujz8ejpk&rid=giphy.gif&ct=s" width="50"> A little about me...
 - 🔭 I’m currently working on Native Android Development.
 - 🌱 I know basics of Web Development.
-- 🥅 2021 Goals: Work on my skills.
+- 🥅 2022 Goals: Work on my skills.
 - ⚡ Fun fact: I like to play Chess in my free time.
 
 ## Connect with me:
